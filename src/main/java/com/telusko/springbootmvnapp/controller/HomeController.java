@@ -9,6 +9,7 @@ public class HomeController {
     public String home()
     {
         String s= "Telusko";
+        String s2 = "Telusko2";
         return "index";
     }
 }
